@@ -1,4 +1,4 @@
-package com.algonquin.cst8288.assignment2.event;
+package Events;
 
 /**
  * the abstract class which can be used to make the types of events.
