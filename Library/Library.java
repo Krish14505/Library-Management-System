@@ -4,6 +4,7 @@
  */
 package Library;
 
+import Events.Event;
 
 /**
  *
