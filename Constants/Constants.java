@@ -1,0 +1,17 @@
+package Constants;
+
+public final class Constants {
+	
+        //The List of Constans which can be used to calculate the admission fees
+        //it can be also used by the enum class called: eventType
+	public static final double WORKSHOP_DURATION = 1.5;
+	public static final double KIDS_STORYTIME_DURATION = 1.0;
+	public static final double MOVIE_NIGHT_DURATION = 2.5;
+	public static final double BOOK_LAUNCH_DURATION = 2.0;
+	
+	public static final double WORKSHOP_RATE = 10.0;
+	public static final double KIDS_STORYTIME_RATE = 3.0;
+	public static final double MOVIE_NIGHT_RATE = 3.0;
+        public static final double BOOK_LAUNCH_RATE = 3.0;
+	
+}
