@@ -1,10 +1,11 @@
-package com.algonquin.cst8288.assignment2.client;
+package Client;
 
-import com.algonquin.cst8288.assignment2.Library.AcademicLibraryFactory;
-import com.algonquin.cst8288.assignment2.Library.PublicLibraryFactory;
-import com.algonquin.cst8288.assignment2.event.Event;
-import com.algonquin.cst8288.assignment2.event.EventManagement;
 import java.util.Scanner;
+
+import Events.Event;
+import Events.EventManagement;
+import Library.AcademicLibraryFactory;
+import Library.PublicLibraryFactory;
 
 /**
  * The class contains the main method taking input from the user. according to
