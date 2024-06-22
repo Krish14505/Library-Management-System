@@ -4,6 +4,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
+import Client.Client;
 import Events.Event;
 import Logger.LMSLogger;
 import Logger.LogLevel;
