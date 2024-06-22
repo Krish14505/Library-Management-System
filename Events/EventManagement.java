@@ -3,6 +3,8 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */package Events;
 
+import database.DBOperations;
+
 /**
  *Event management class is used to invoke the specific CRUD operation method from the 
  * DBOperation class. 
