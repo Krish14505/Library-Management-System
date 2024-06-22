@@ -1,5 +1,4 @@
-package com.algonquin.cst8288.assignment2.logger;
-
+package Logger;
 //constants for the different types of various log types.
 public enum LogLevel {
     TRACE(1),
