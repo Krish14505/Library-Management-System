@@ -2,6 +2,9 @@ package database;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
+
+import Logger.LMSLogger;
+import Logger.LogLevel;
 /**
  * This class is used to build the database connection between database.
  * @author krish
