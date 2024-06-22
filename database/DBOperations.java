@@ -5,6 +5,8 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 import Events.Event;
+import Logger.LMSLogger;
+import Logger.LogLevel;
 
 /**
  * This class is used to do CRUD operation in the database.
