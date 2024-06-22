@@ -1,13 +1,10 @@
-package com.algonquin.cst8288.assignment2.database;
-
-import com.algonquin.cst8288.assignment2.client.Client;
-import com.algonquin.cst8288.assignment2.event.Event;
-import com.algonquin.cst8288.assignment2.logger.LMSLogger;
-import com.algonquin.cst8288.assignment2.logger.LogLevel;
+package database;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
+
+import Events.Event;
 
 /**
  * This class is used to do CRUD operation in the database.
