@@ -1,5 +1,7 @@
 package Events;
 
+import Constants.Constants;
+
 //this is the enum class that has the group of constats which are defined in the Constans package
 public enum EventType {
 	 KIDS_STORY(Constants.KIDS_STORYTIME_RATE,Constants.KIDS_STORYTIME_DURATION),
